@@ -215,12 +215,7 @@
     transform: rotate(360deg);
   }
   to {
-    transform: rotate(0deg);
+    transsform: rotate(0deg);
   }
 }
 
-input[type="text"] {
-  color: white;
-  background-color: white;
-  border: 1px solid #000;
-}
